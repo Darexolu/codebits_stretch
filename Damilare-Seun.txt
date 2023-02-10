@@ -1,0 +1,39 @@
+	1.Git is a version control system that lets you manage and keep track of your source code history.GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+2.The benefits of using version control system are:
+a) Streamline merging and branching
+b) Examine and experiment with code
+c) keep track of every change made to the code
+d) Access every file's entire long-term modification history
+e) Discover the ability to operate offline
+
+3.Git is written in C, reducing the overhead of runtimes associated with higher-level languages.
+
+4.The various Git repository service providers are:
+a) Bitbucket
+b) Gitlab
+c) Perforce
+d) Beanstalk
+e) Amazon Aws code commit
+
+5. A Git repository is the .git/folder inside a project. This repository tracks all changes made to files in your project, buiding a history over time.
+
+6. A Git repository can be created in the following ways:
+a) In the upper-right corner of any page, use the drop-down menu, and select new repository.
+b) Type a short, memorable name for your repository.
+c) Optionally, add a description of your repository
+d) Choose a repository visibility 
+e) Select initialize this repository with a README
+f) Click create repository
+
+7. a) git add: moves changes from the working directory to the staging area.
+b) git branch: This command is your general-purpose administration tool. It lets you create isolated development environments within a single repository.
+c)git checkout: In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.
+
+8) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+9) The Git directory is where the Git stores the metadata and object database for your project.
+
+10) If the .git folder is deleted, The information saved by Git will be lost, and the directory will no longer act as a repository.
+
+
